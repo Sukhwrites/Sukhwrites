@@ -20,14 +20,9 @@ Exploring best practices for building scalable and robust Node.js applications, 
 Deep dive into leveraging Spring and Hibernate for efficient database management, including ORM best practices and configuration strategies for enterprise applications.
 ---
 ### DevOps & Micro Frontend Architecture
-**[Mastering Micro Frontend: Complete Webpack Module Federation Guide for 2024](https://devops.com/mastering-micro-frontend-complete-webpack-module-federation-guide-for-2024/)**  
+**[Mastering Micro Frontend: Complete Webpack Module Federation Guide for 2024](https://devops.com/master-building-scalable-micro-frontend-application-using-react/)**  
 📰 *Published on DevOps.com*  
 Comprehensive guide to implementing micro frontend architecture using Webpack Module Federation, covering practical implementation strategies and real-world use cases.
----
-### React & Frontend Libraries
-**[Master Next.js Image Component: Complete Guide to Image Optimization](https://vocal.media/geeks/master-next-js-image-component-complete-guide-to-image-optimization)**  
-📰 *Published on Vocal Media*  
-Detailed exploration of Next.js Image component capabilities, optimization techniques, and best practices for modern web applications.
 ---
 **[Why Use React/Angular Front-End Frameworks for Impressive Web Development in 2025 and Beyond](https://dev.to/sukhwinder/why-use-react-angular-front-end-frameworks-for-impressive-web-development-in-2025-and-beyond-2154)**  
 📰 *Published on Dev.to*  
