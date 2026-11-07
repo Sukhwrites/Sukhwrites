@@ -1,6 +1,6 @@
 # 👋 Welcome to My Portfolio
 ## About Me
-Hi! I'm Sukhwinder, a seasoned technical writer and software development expert with a passion for creating comprehensive, high-quality content on modern web development technologies. My work has been published on leading technology platforms including DZone, Dev.to, DevOps.com, and Vocal Media, where I share insights on backend frameworks, frontend architectures, and best practices in software development.
+Hi! I'm Sukhwinder, a technical writer and software development expert with a passion for creating comprehensive, high-quality content on modern web development technologies. My work has been published on leading technology platforms including DZone, Dev.to, DevOps.com, and Vocal Media, where I share insights on backend frameworks, frontend architectures, and best practices in software development.
 With extensive experience in both writing and hands-on development, I bridge the gap between complex technical concepts and practical, actionable knowledge for developers worldwide.
 ---
 ## 📚 Published Articles
